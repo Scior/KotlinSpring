@@ -4,7 +4,7 @@ import org.springframework.stereotype.Controller
 import org.springframework.web.bind.annotation.GetMapping
 
 /**
- * 基幹部分のURLのマッピングを行うコントローラー.
+ * ルートのURLのマッピングを行うコントローラー.
  *
  * @author Suita Fujino
  */
